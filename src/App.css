@@ -174,9 +174,9 @@ input[type="number"] {
     font-size: small;
   }
   .rounds-set {
-    height: 40px;
+    height: 30px;
     gap: 8px;
-    bottom: 90px;
+    bottom: 70px;
     left: 10px;
     padding: 20px;
     font-size: medium;
